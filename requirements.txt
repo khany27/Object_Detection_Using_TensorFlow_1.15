@@ -1,0 +1,8 @@
+cython
+matplotlib
+opencv-python
+pillow
+lxml
+jupyter
+contextlib2
+pandas

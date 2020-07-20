@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'schichtabloesung'
+}
+
+item {
+  id: 2
+  name: 'aufbauanomalie'
+}
+
+item {
+  id: 3
+  name: 'utilities'
+}
+
+item {
+  id: 4
+  name: 'diffuse_damage'
+}
+
+item {
+  id: 5
+  name: 'bridge'
+}
